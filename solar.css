@@ -1413,7 +1413,12 @@ h1 {
     font-size: 36%; } }
 @media screen and (min-width: 760px) {
   #universe {
-    font-size: 36%; } }
+    font-size: 36%; } 
+    
+  .wrapper-universo{
+    min-height: 250px;
+  }
+}
 @media screen and (min-width: 1000px) {
   #universe {
     font-size: 73%; }
