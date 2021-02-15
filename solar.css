@@ -1402,6 +1402,12 @@ h1 {
   background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/5ff7baa9714ca46d1db3bf58_esfera.png"); }
 
 /* --------------------------------------------------------------------------- responsive styles */
+@media screen and (max-width: 760px){
+    .wrapper-universo{
+    min-height: 250px;
+  }
+}
+
 @media screen and (max-width: 299px) {
   #universe {
     font-size: 20%; } }
@@ -1413,12 +1419,7 @@ h1 {
     font-size: 36%; } }
 @media screen and (min-width: 760px) {
   #universe {
-    font-size: 36%; } 
-    
-  .wrapper-universo{
-    min-height: 250px;
-  }
-}
+    font-size: 36%; } }
 @media screen and (min-width: 1000px) {
   #universe {
     font-size: 73%; }
