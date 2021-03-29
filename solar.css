@@ -67,7 +67,7 @@
   transform-style: preserve-3d; }
 
 #sun {
-  background-color: #FB7209;
+  background-color: #EA38D7;
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0 0 60px rgba(255, 160, 60, 0.4); }
@@ -162,7 +162,8 @@
     transform: rotateX(-90deg) rotateY(0deg) rotateZ(0deg); } }
 
 /* --------------------------------------------------------------------------- opening */
-.view-3D .opening #sun,
+.view-3D .opening 
+,
 .view-3D .opening .orbit,
 .view-3D .opening .pos,
 .view-3D .opening .planet,
