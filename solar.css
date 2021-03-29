@@ -1372,7 +1372,7 @@ h1 {
 }
 
 #sun {
-  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/5ff7baa9714ca46d1db3bf58_esfera.png"); }
+  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/60622a2e1787c77a8fb9e02b_nocoders.png"); }
 
 #mercury .planet {
   background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/5ff7baa9714ca46d1db3bf58_esfera.png"); }
@@ -1387,19 +1387,19 @@ h1 {
   background-color: white; }
 
 #mars .planet {
-  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/5ff7baa9714ca46d1db3bf58_esfera.png"); }
+  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/60622a2e3f89327247e96976_webflow.png"); }
 
 #jupiter .planet {
-  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/5ff7baa9714ca46d1db3bf58_esfera.png"); }
+  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/60622a2ec0e7d0748471ec7e_glide.png"); }
 
 #saturn .planet {
-  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/5ff7baa9714ca46d1db3bf58_esfera.png"); }
+  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/60622a2e5c0e12f3c5063b2f_zapier.png"); }
 
 #uranus .planet {
-  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/5ff7baa9714ca46d1db3bf58_esfera.png"); }
+  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/60622a2eb29eefbcdbc2642e_adalo.png"); }
 
 #neptune .planet {
-  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/5ff7baa9714ca46d1db3bf58_esfera.png"); }
+  background-image: url("https://uploads-ssl.webflow.com/5ff0ff86fdd5f7934419908c/60622a2dd68d1e63d1210b52_bubble.png"); }
 
 /* --------------------------------------------------------------------------- responsive styles */
 @media screen and (max-width: 760px){
